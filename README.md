@@ -14,3 +14,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<p>
+  
+  <img src="https://github.com/Flutter2616/news_app/assets/124335197/08c36ba7-0a22-4b84-a4e0-c5e99227d47a" height="50%" width="30%">
+  <img src="https://github.com/Flutter2616/news_app/assets/124335197/717a7bb8-7d59-47fa-b6c7-64c06835d2c9" height="50%" width="30%">
+  <img src="https://github.com/Flutter2616/news_app/assets/124335197/72f39fd2-95f0-4fd1-ac7a-2c0e5277d45a" height="50%" width="30%">
+  <img src="https://github.com/Flutter2616/news_app/assets/124335197/e6078e05-4e20-4beb-899d-2dfef6b417e9" height="50%" width="30%">
+  <img src="https://github.com/Flutter2616/news_app/assets/124335197/52a389f3-c591-4e7e-80e0-7b94f2866683" height="50%" width="30%">
+  <img src="https://github.com/Flutter2616/news_app/assets/124335197/2d23f5ce-87a9-445b-95ca-6e263f0d8e2c" height="50%" width="30%">
+  <img src="https://github.com/Flutter2616/news_app/assets/124335197/d82222d7-d415-459c-a247-ee02ea9c7d2b" height="50%" width="30%">
+  <img src="https://github.com/Flutter2616/news_app/assets/124335197/d8467969-7f8d-411c-9640-047d293d6ffd" height="50%" width="30%">
+  
+  
+  </p>
+  
+  
